@@ -1,2 +1,2 @@
-# Kateto
+# Kateto - Project
 Project 
